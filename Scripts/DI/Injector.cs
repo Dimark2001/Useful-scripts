@@ -12,8 +12,6 @@ public static class Injector
         {
             Inject(monoBehaviour);
         }
-
-        InjectStatic(typeof(G));
     }
 
     public static void Inject(object target)
