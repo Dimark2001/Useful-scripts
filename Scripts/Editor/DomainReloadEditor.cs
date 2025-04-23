@@ -1,6 +1,6 @@
 ﻿using UnityEditor;
 
-public class ExtensionsWindow : EditorWindow
+public class DomainReloadEditor : EditorWindow
 {
     [MenuItem("Tools/Reload Domain")]
     private static void DomainReload()
